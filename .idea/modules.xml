@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Conversion_Base_10.iml" filepath="$PROJECT_DIR$/.idea/Conversion_Base_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XORDe2Nombre/.idea/XORDe2Nombre.iml" filepath="$PROJECT_DIR$/../XORDe2Nombre/.idea/XORDe2Nombre.iml" />
+    </modules>
+  </component>
+</project>
